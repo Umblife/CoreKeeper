@@ -38,7 +38,7 @@ Before starting the script, position your character as follows:
 
 ### Run the script
 
-1. Start **Core Keeper**.
+1. Start **Core Keeper** and disable the fishing minigame in the game settings.
 2. Move your character into the recommended fishing position described above.
 3. Make sure the game window is visible.
 4. Open a terminal in the folder containing `fishing.py`.
